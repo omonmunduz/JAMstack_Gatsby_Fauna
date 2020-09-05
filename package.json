@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Omur Nazar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0"
+  }
 }
